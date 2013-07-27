@@ -20,7 +20,7 @@ If `GOPATH` is [set on your path](http://golang.org/doc/code.html#GOPATH)
 (which might be a good idea), your should be able to run it directly:
 
 ```
-  serve
+  $ serve
 ```
 
 The previous should start the server on your current directory `.`, listening
